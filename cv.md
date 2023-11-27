@@ -1,6 +1,6 @@
-###Abdalov Yusif
+### Abdalov Yusif
 ---
-####Contacts
+#### Contacts
 
 ---
 
@@ -12,7 +12,7 @@
  My strong points are the ability to communicate with people effectively, the ability to work in a team, and the desire to constantly learn and develop my skills. Being a responsible and reliable person, I am always open to new opportunities and willing to take on new responsibilities in various fields of activity.
 
 ---
-####Skills
+#### Skills
 
 * HTML
 * CSS
@@ -21,7 +21,7 @@
 * Figma
 * Photoshop
 ---
-####Code Example
+#### Code Example
 ```
 function multiply(a, b) {
   return a * b;
@@ -30,7 +30,7 @@ function multiply(a, b) {
 ```
 
 
-####Experience
+#### Experience
 * Education
 University:  St. Petersburg University of Management Technologies and Economics (UMTE)
 
